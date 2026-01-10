@@ -1,5 +1,7 @@
 ---
 # the default layout is 'page'
+layout: page
+permalink: /
 icon: fas fa-info-circle
 order: 4
 ---
