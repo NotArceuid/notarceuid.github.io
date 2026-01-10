@@ -5,7 +5,6 @@ order: 4
 ---
 
 
-## Profile
   Hello, I'm an 18 year old Malaysian solo programmer who makes games on the side and enjoys working out. 
 
 ## Info 
@@ -36,3 +35,18 @@ order: 4
 
 ## My Works
 <iframe frameborder="0" src="https://itch.io/embed/2460705" width="552" height="167"><a href="https://eddy14.itch.io/gemstasis">Gemstasis by Eddy14, Chronotion, Hashed, Pentixel</a></iframe>
+
+<div style="
+  margin-top: 1.2rem;
+  border: 1px solid #30363d;
+  padding: 16px;
+  width: 300px;
+">
+  <div style="display: flex; align-items: center; gap: 12px; ">
+    <div style=""></div>
+    <div>
+      <a href="https://www.github.com/NotArceuid/svelte5-collapsible">NotArceuid / svelte5-collapsible</a>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 2px;">Rewrite of svelte-collapsible to use modern svelte5 syntax</div>
+    </div>
+  </div>
+</div>

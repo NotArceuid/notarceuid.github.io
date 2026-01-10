@@ -35,8 +35,6 @@ social:
   name: Jayson
   email: jschong08@protonmail.com # change to your email address
 
-  name: your_full_name
-  email: example@domain.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
@@ -152,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://notarceuid.github.io/about"
 
 # ------------ The following options are not recommended to be modified ------------------
 
