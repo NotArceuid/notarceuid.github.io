@@ -6,13 +6,13 @@ order: 4
 
 
 ## Profile
-  Hello, I'm an 18 year old Malaysian solo programmer who makes games on the side and enjoy working out. 
+  Hello, I'm an 18 year old Malaysian solo programmer who makes games on the side and enjoys working out. 
 
 ## Info 
 - Built a custom pc in 2020 (12 y/o)
  - Started coding in 2021 (13 y/o)
  - Started daily driving Linux in 2023 (15 y/o) [Arch btw]
- - Helped multiple friends switch from windows to linux
+ - Helped multiple friends switch from Windows to Linux
  - Currently learning the world of sysadmin by creating home servers using old dell optiplexes
 
 ## What I Use
@@ -34,5 +34,5 @@ order: 4
 *My current Arch Linux setup with Hyprland* 
 *dotfiles are available [here](https://www.github.com/NotArceuid/dotfiles)*
 
-## My works
+## My Works
 <iframe frameborder="0" src="https://itch.io/embed/2460705" width="552" height="167"><a href="https://eddy14.itch.io/gemstasis">Gemstasis by Eddy14, Chronotion, Hashed, Pentixel</a></iframe>
