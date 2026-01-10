@@ -16,7 +16,7 @@ timezone: Asia/Kuala_Lumpur
 
 title: NotArceuid  # the main title
 
-tagline: Programmer & Linux enthusiast # it will display as the subtitle
+tagline: 17, Programmer & Linux enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Portfolio and technical blog by NotArceuid. Features articles on linux, programming and project showcases.
@@ -31,14 +31,13 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-<<<<<<< HEAD
+
   name: Jayson
   email: jschong08@protonmail.com # change to your email address
-=======
+
   name: your_full_name
   email: example@domain.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
->>>>>>> refs/remotes/origin/master
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/NotArceuid # change to your GitHub homepage
