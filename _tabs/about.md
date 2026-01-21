@@ -10,11 +10,11 @@ order: 4
   Hello, I'm an 18 year old Malaysian solo programmer who makes games on the side and enjoys working out. 
 
 ## Info 
-- Built a custom pc in 2020 (12 y/o)
- - Started coding in 2021 (13 y/o)
- - Started daily driving Linux in 2023 (15 y/o) [Arch btw]
+- Built a pc in 2020 (12 y/o)
+ - Started coding in 2021 (13 y/o) 
+ - Started daily driving Linux in 2023 (15 y/o) 
  - Helped multiple friends switch from Windows to Linux
- - Currently learning the world of sysadmin by creating home servers using old dell optiplexes
+ - Learned rust at 18
 
 ## What I Use
 
@@ -51,4 +51,10 @@ order: 4
       <div style="font-size: 12px; color: #8b949e; margin-top: 2px;">Rewrite of svelte-collapsible to use modern svelte5 syntax</div>
     </div>
   </div>
+</div>
+
+### Contact
+<div>
+  <h6>Email: jschong08@protonmail.com</h6>
+  <h6>Phone: 60 11-7001-3912</h6>
 </div>
