@@ -10,6 +10,12 @@ const config = {
     }
   },
   kit: {
+    prerender: {
+      handleHttpError: ({ path, referrer, message }) => {
+        if (path.startsWith('/soap-game')) return;
+        throw new Error(message);
+      }
+    },
     adapter: adapter({
       fallback: '404.html'  
     }),
