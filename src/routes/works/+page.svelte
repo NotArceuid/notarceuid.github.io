@@ -6,7 +6,7 @@
   <Works
     title="Soap Game"
     source="https://github.com/NotArceuid/soap-game"
-    link="notarceuid.github.io/soap-game/"
+    link="https://notarceuid.github.io/soap-game/"
     description="Browser Incremental Game"
   />
   <Works
