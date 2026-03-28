@@ -17,21 +17,23 @@
   </div>
 
   <div class="w-auto md:p-2 md:pr-0 md:pl-5 overflow-scroll text-xs">
-    <h1>Hello There!</h1>
-    <h1>I'm an 18 y/o malaysian programmer that is interested in</h1>
+    <div class="h-11/12">
+      <h1>Hello There!</h1>
+      <h1>I'm an 18 y/o malaysian programmer that is interested in</h1>
 
-    <div class="py-2 text-xs">
-      <ul>
-        <li>Home Labbing</li>
-        <li>Web development</li>
-        <li>Shaders</li>
-        <li>Linux</li>
-      </ul>
+      <div class="py-2 text-xs">
+        <ul>
+          <li>Home Labbing</li>
+          <li>Web development</li>
+          <li>Shaders</li>
+          <li>Linux</li>
+        </ul>
+      </div>
+
+      <h1 class="mb-2">I sometimes post on youtube, go check it out</h1>
+
+      <h1>Feel free to contact me anytime!</h1>
     </div>
-
-    <h1 class="mb-2">I sometimes post on youtube, go check it out</h1>
-
-    <h1>Feel free to contact me anytime!</h1>
 
     <div class="md:hidden flex mt-auto">
       <Contacts />
