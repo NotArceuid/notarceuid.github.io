@@ -36,6 +36,9 @@ jobs:
         with:
           path: 'build'
 
+      - name: Check build output
+        run: ls -la build/
+
   deploy:
     needs: build_site
     runs-on: ubuntu-latest
