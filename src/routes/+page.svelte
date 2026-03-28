@@ -33,7 +33,7 @@
 
     <h1>Feel free to contact me anytime!</h1>
 
-    <div class="md:hidden flex mt-5">
+    <div class="md:hidden flex mt-auto">
       <Contacts />
     </div>
   </div>
