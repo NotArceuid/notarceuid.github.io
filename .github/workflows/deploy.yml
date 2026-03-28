@@ -26,6 +26,8 @@ jobs:
         run: pnpm i
 
       - name: Build Project
+        env:
+          BASE_PATH: ''
         run: |
           pnpm run build
 
